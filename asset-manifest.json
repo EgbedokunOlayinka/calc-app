@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mycalc-app/static/css/main.b68f5393.chunk.css",
-    "main.js": "/mycalc-app/static/js/main.7b22c19c.chunk.js",
-    "main.js.map": "/mycalc-app/static/js/main.7b22c19c.chunk.js.map",
+    "main.js": "/mycalc-app/static/js/main.bf93d5ca.chunk.js",
+    "main.js.map": "/mycalc-app/static/js/main.bf93d5ca.chunk.js.map",
     "runtime-main.js": "/mycalc-app/static/js/runtime-main.034c0234.js",
     "runtime-main.js.map": "/mycalc-app/static/js/runtime-main.034c0234.js.map",
     "static/js/2.4210bd49.chunk.js": "/mycalc-app/static/js/2.4210bd49.chunk.js",
     "static/js/2.4210bd49.chunk.js.map": "/mycalc-app/static/js/2.4210bd49.chunk.js.map",
     "index.html": "/mycalc-app/index.html",
-    "precache-manifest.a425c99c02fdeb0d432ec4dbc32fa7c6.js": "/mycalc-app/precache-manifest.a425c99c02fdeb0d432ec4dbc32fa7c6.js",
+    "precache-manifest.8a658a661774a688cfa7d8f6fb55cd44.js": "/mycalc-app/precache-manifest.8a658a661774a688cfa7d8f6fb55cd44.js",
     "service-worker.js": "/mycalc-app/service-worker.js",
     "static/css/main.b68f5393.chunk.css.map": "/mycalc-app/static/css/main.b68f5393.chunk.css.map",
     "static/js/2.4210bd49.chunk.js.LICENSE.txt": "/mycalc-app/static/js/2.4210bd49.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.034c0234.js",
     "static/js/2.4210bd49.chunk.js",
     "static/css/main.b68f5393.chunk.css",
-    "static/js/main.7b22c19c.chunk.js"
+    "static/js/main.bf93d5ca.chunk.js"
   ]
 }
