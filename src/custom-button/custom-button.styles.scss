@@ -1,0 +1,115 @@
+$red: #AC3939;
+$lightGrey: #666666;
+$darkGrey: #4D4D4D;
+$blue: #004466;
+
+
+button {
+    // border: .1px solid black;
+    outline: 1px solid black;
+    border: none;
+    border-radius: none;
+    padding: 1.2rem;
+    font-size: 1.2rem;
+    // font-weight: bold;
+    color: white;
+    font-family: 'Share Tech Mono', monospace;
+    cursor: pointer;
+    z-index: 99;
+}
+
+button:hover {
+    outline: .05em solid grey;
+    color: black;
+    z-index: 124;
+}
+
+// button:focus {
+//     // border: .1px solid black;
+//     // color: white;
+//     display: none;
+// }
+
+.red {
+    background: $red;
+}
+
+.light {
+    background: $lightGrey;
+}
+
+.dark {
+    background: $darkGrey;
+}
+
+.blue {
+    background: $blue;
+}
+
+.reset {
+    grid-area: reset;
+  }
+
+  .divide {
+    grid-area: divide;
+  }
+
+  .multiply {
+    grid-area: multiply;
+  }
+
+  .seven {
+    grid-area: seven;
+  }
+
+  .eight {
+    grid-area: eight;
+  }
+
+  .nine {
+    grid-area: nine;
+  }
+
+  .minus {
+    grid-area: minus;
+  }
+
+  .four {
+    grid-area: four;
+  }
+
+  .five {
+    grid-area: five;
+  }
+
+  .six {
+    grid-area: six;
+  }
+
+  .plus {
+    grid-area: plus;
+  }
+
+  .one {
+    grid-area: one;
+  }
+
+  .two {
+    grid-area: two;
+  }
+
+  .three {
+    grid-area: three;
+  }
+
+  .equals {
+    grid-area: equals;
+  }
+
+  .zero {
+    grid-area: zero;
+  }
+
+  .dot {
+    grid-area: dot;
+  }
